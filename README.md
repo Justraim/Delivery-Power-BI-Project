@@ -131,6 +131,15 @@ The project uses two datasets:
      ProfitabilityScore + GrowthScore
      ```
 
+6. **Operational Dashboard**:
+
+![image](https://github.com/user-attachments/assets/f9d2465d-329e-4960-90bf-b1968116cc56)
+
+
+   
+8. **Tactical Dashboard**:
+
+![image](https://github.com/user-attachments/assets/136a71dd-08ca-4676-901c-ba8a95ec766f)
 
 
 
